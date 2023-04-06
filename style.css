@@ -239,9 +239,9 @@ h1.name {
   .section {
     width: 550px;
   }
-  .logo {
+  .logo 
 
-  }
+  
   h1.name {
     font-size: 20px;
   }
