@@ -42,7 +42,6 @@ const initialState = {
     }
   });
 
-  
   // Define the function to update the total element
   function updateTotalElement() {
     const totalElement = document.getElementById('total-element');
