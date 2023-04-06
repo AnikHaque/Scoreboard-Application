@@ -58,7 +58,6 @@ const resetButton = document.getElementById('reset-button');
 resetButton.addEventListener('click', () => {
   store.dispatch({ type: 'RESET_TOTAL' });
 });
-// Add this code after the Redux code block
 
 const addButton = document.getElementById('add-input');
 addButton.addEventListener('click', () => {
